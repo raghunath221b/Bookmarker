@@ -1,2 +1,2 @@
 # Bookmarker
-This is a javascript project.
+This is a simple javascript project.
